@@ -1,6 +1,6 @@
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
-# The official Behold Widget for Svelte
+# The Official Behold Widget for Svelte
 
 <div align="center">
   <a href="https://behold.so/">
@@ -16,7 +16,7 @@
 
 ## About
 
-This package contains a Svelte version of the [Behold embedded widget](https://behold.so/docs/widget/). This package is a convenience wrapper around the core Behold widget web component, and allows easy integration into your Svelte projects.
+This package contains a Svelte version of the [Behold embedded widget](https://behold.so/docs/widget/). It is a lightweight convenience wrapper around the core Behold widget web component, and allows easy integration into your Svelte projects.
 
 ## Installation
 
