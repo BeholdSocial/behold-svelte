@@ -17,7 +17,7 @@
     "url": "git+https://github.com/BeholdSocial/behold-svelte.git"
   },
   "bugs": {
-    "url": "https://behold.so"
+    "url": "https://github.com/BeholdSocial/behold-svelte/issues"
   },
   "author": "Griffin Johnston",
   "license": "MIT",
