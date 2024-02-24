@@ -5,9 +5,9 @@
 <div align="center">
   <a href="https://behold.so/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./readme-images/thumbnail-dark.png">
-      <source media="(prefers-color-scheme: light)" srcset="./readme-images/thumbnail-light.png">
-      <img src="thumbnail-dark.png" alt="Behold" 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BeholdSocial/behold-svelte/main/readme-images/thumbnail-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BeholdSocial/behold-svelte/main/readme-images/thumbnail-light.png">
+      <img src="https://raw.githubusercontent.com/BeholdSocial/behold-svelte/main/readme-images/thumbnail-light.png" alt="Behold" 
       width="100%"
       height="auto">
     </picture>
