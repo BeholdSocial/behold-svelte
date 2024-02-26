@@ -62,3 +62,4 @@ This component relies on client-only APIs and won't be pre-rendered by SSR or SS
 [![Preact](https://img.shields.io/badge/preact-%2320232a.svg?style=for-the-badge&logo=preact&logoColor=%23ae80ff)](https://www.npmjs.com/package/@behold/preact)
 [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://www.npmjs.com/package/@behold/vue)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://www.npmjs.com/package/@behold/angular)
+[![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb)](https://www.npmjs.com/package/@behold/solid)
